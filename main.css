@@ -55,8 +55,12 @@ p {
     border-radius: 5px;
     border: 1px solid #B4B3B3;
     font-size: 10px;
-    color: #8F8D8D;
+    color: #080808;
     padding: 5px 10px;
+}
+
+::placeholder{
+    color: #8F8D8D;
 }
 
 form input[type="submit"] {
